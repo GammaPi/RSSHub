@@ -1631,9 +1631,15 @@ jsjxy.hbut.edu.cn 证书链不全，自建 RSSHub 可设置环境变量 NODE_TLS
 
 注：[源站](https://ece.umass.edu/seminar)在未公布研讨会计划时会清空页面导致 Rsshub 抓取不到内容，此属正常现象。
 
-### 信息与计算机科学系新闻
+### 信息与计算机科学系
+
+#### 新闻
 
 <Route author="gammapi" example="/umass/amherst/csnews" path="/umass/amherst/csnews" radar="1" rssbud="1"/>
+
+#### 招聘会
+
+<Route author="gammapi" example="/umass/amherst/cscareer" path="/umass/amherst/cscareer" radar="1" rssbud="1"/>
 
 ### 国际项目办公室
 

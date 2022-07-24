@@ -96,6 +96,11 @@ Note: [Source website](https://gs.bjtu.edu.cn/) only provides articles in Chines
 
 <RouteEn author="gammapi" example="/umass/amherst/ecenews" path="/umass/amherst/ecenews" radar="1" rssbud="1"/>
 
+#### Career Fair
+
+<Route author="gammapi" example="/umass/amherst/cscareer" path="/umass/amherst/cscareer" radar="1" rssbud="1"/>
+
+
 #### Seminar
 
 <RouteEn author="gammapi" example="/umass/amherst/eceseminar" path="/umass/amherst/eceseminar" radar="1" rssbud="1"/>
